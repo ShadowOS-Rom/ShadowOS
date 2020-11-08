@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+   <remote name="ShadowOS"
+          fetch="https://github.com/ShadowOS-Rom"
+          revision="eleven" />
+
+  <!-- Track custom repos that contain our fixes -->
+  <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_sm8150_display" remote="ShadowOS" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="ShadowOS" />
+  <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom-caf_sm8150_media" remote="ShadowOS" />
+</manifest>
