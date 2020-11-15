@@ -10,7 +10,7 @@
   <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="ShadowOS" />
   <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom-caf_sm8150_media" remote="ShadowOS" />
   <project path="frameworks/base" name="frameworks_base" remote="ShadowOS" />
-  <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="ShadowOS"/>
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ShadowOS"/>
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ShadowOS"/>  
   <project path="packages/apps/Settings/HiddenSettings" name="packages_apps_HiddenSettings" remote="ShadowOS"/>
 </manifest>
