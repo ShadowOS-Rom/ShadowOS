@@ -13,4 +13,5 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ShadowOS"/>
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ShadowOS"/>  
   <project path="packages/apps/Settings/HiddenSettings" name="packages_apps_HiddenSettings" remote="ShadowOS"/>
+  <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" groups="ShadowOS" />
 </manifest>
